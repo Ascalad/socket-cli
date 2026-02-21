@@ -125,7 +125,7 @@
     "chalk-table": "1.0.2",
     "cmd-shim": "7.0.0",
     "cross-env": "7.0.3",
-    "custompatch": "1.1.4",
+    "custompatch": "1.1.8",
     "del-cli": "6.0.0",
     "dev-null-cli": "2.0.0",
     "eslint": "9.26.0",
